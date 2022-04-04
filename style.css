@@ -1,0 +1,30 @@
+.bg-space {
+    background-image: url(/assets/IMG_3197.JPG);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center;
+
+}
+
+
+.moon{
+    height: 90vh;
+    width: 70vh;
+    background-color: black;
+}
+
+img{
+    cursor: crosshair;
+    user-select: none;
+    -webkit-user-drag: none;
+    
+}
+
+
+
+/* .bg-shop{
+background-image: url(https://cdn.mos.cms.futurecdn.net/668f55db846ed80689f710f7c0360524.jpg);
+background-size: cover; 
+background-repeat: no-repeat;
+background-position: center;
+} */
